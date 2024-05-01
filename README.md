@@ -4,5 +4,6 @@ Git practice repository
 This is my practice Git repository.
 I'm using this repository to do my Git Assignments.
 
-This is to demo Assignment #5.
-Doing some changes in the new local branch.
+This is to demo Assignment #13.
+Made some required changes to a file.
+Now, I will submit a pull request to the collaborator.
