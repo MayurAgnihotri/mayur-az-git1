@@ -1,0 +1,4 @@
+Assignment3: Add/Save changes to the local git repository. Save the screenshots.
+
+>> Here I have staged all new changes from 'GitCommands.txt' file and committed it to my new Git repository
+>> Also, I have created new 'Assignments.txt' file and 'git add' this file to stage changes for the next commit.
